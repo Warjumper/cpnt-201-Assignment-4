@@ -4,7 +4,7 @@
   "description": "Assignment 4 - NPM Tailwind Assignment",
   "main": "index.js",
   "scripts": {
-    "dev": "npx tailwindcss -i ./css/style.css -o ./css/tailwind.css --watch"
+    "dev": "npx tailwindcss -i /CSS/style.css -o /CSS/tailwind.css --watch"
   },
   "repository": {
     "type": "git",
