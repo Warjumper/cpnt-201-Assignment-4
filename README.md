@@ -3,7 +3,7 @@
 
 ### By Jesse H
 
-### Github Pages link - 
+### Github Pages link - https://warjumper.github.io/cpnt201-a5/
 ### Github Repo - https://github.com/Warjumper/cpnt201-a5
 
 ### Code attributions;
