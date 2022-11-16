@@ -4,14 +4,14 @@
   "description": "Assignment 4 - NPM Tailwind Assignment",
   "main": "index.js",
   "scripts": {
-    "dev": "npx tailwindcss -i ./public/css/style.css -o ./public/css/tailwind.css --watch"
+    "dev": "npx tailwindcss -i ./css/style.css -o ./css/tailwind.css --watch"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Warjumper/cpnt-201-Assignment-4.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jesse H",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Warjumper/cpnt-201-Assignment-4/issues"

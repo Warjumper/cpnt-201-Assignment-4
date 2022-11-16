@@ -4,7 +4,7 @@
 ### By Jesse H
 
 ### Github Pages link - 
-### Github Repo - 
+### Github Repo - https://github.com/Warjumper/cpnt201-a5
 
 ### Code attributions;
 - Tailwind help https://tailwindcss.com/docs/installation
